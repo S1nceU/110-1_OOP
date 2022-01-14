@@ -2,7 +2,7 @@
 #include <gtest/gtest.h>
 #include "../src/dog.h"
 #include "../src/algo.h"
-#include "../src/cat.h"
+#include "../src/cat.h" //test
 TEST(algoTest,LargerWeight){
     Pet *dog01 = new Dog("so",11);
     Pet *cat01 = new Cat("soso",5);
