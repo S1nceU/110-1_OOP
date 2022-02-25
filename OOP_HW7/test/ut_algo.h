@@ -19,7 +19,7 @@ TEST(algoTest,LongerName){
     Pet *dog01 = new Dog("so",11);
     Pet *cat01 = new Cat("soso",5);
     Pet *dog02 = new Dog("sososo",30);
-    Pet *cat02 = new Cat("sosososo",3);
+    Pet *cat02 = new Cat("sososos0o",3);
     std::vector<Pet*> arr;
     arr.push_back(dog01);
     arr.push_back(cat01);
