@@ -9,7 +9,7 @@ TEST(VectorTest,constructor) {
     std::string name = "Yaga";
     double weight = 24.0;
     Cat cat4(name,weight);
-    Toy t1("pussy");
+    Toy t1("pussyboy");
     Toy t2("booble");
     Toy t3("nips");
     cat4.addNewToy(t1);
